@@ -9,3 +9,5 @@
 ### A: Go to chat.openai.com in your browser, and copy & paste the prompt in ___.txt into the prompt bar.
 ### Q: Why isn't the prompt working?
 ### A: The prompt was tested on GPT-4o Mini, meaning it may or may not work on other modules.
+### Q: How can I report bugs?
+### A: Bruh. You can just comment them.
