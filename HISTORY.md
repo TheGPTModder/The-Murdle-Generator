@@ -1,2 +1,2 @@
 # Version History
-### V1.0 - Inital launch!
+### V1.0 - Inital launch! (Latest)
